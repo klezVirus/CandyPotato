@@ -26,7 +26,7 @@ I decided then to automate this process in a new version of [JuicyPotato][1], th
 
 For backward compatibility, CandyPotato allows you to do whatever you could with [JuicyPotato][1], adding some new gigs:
 
-###@ New Commands
+#### New Commands
 
 + **INFO mode**<br>
 _Enumerate suitable CLSIDs and print them back to the user, improving what GetCLSID.ps1 used to do in JuicyPotato v0.1_
