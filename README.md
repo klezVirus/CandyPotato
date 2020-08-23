@@ -24,9 +24,9 @@ I decided then to automate this process in a new version of [JuicyPotato][1], th
 
 ## Candy details
 
-For backward compatibility, CandyPotato allows you to do whatever you could with [JuicyPotato][1]:
+For backward compatibility, CandyPotato allows you to do whatever you could with [JuicyPotato][1], adding some new gigs:
 
-### New Commands
+###@ New Commands
 
 + **INFO mode**<br>
 _Enumerate suitable CLSIDs and print them back to the user, improving what GetCLSID.ps1 used to do in JuicyPotato v0.1_
@@ -101,9 +101,6 @@ This exploit has been "randomly" mitigated by Microsoft in a completed unrelated
 
 * [No more JuicyPotato? Old story, welcome RoguePotato!][3]
 * [RoguePotato][2]
-
-## Author
-- [d3adc0de](https://twitter.com/klezVirus)
  
 ## Credits (JuicyPotato v0.1)
 
