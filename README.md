@@ -97,7 +97,7 @@ Optional args:
 
 ## Considerations
 
-This exploit has been "randomly" mitigated by Microsoft in a completed unrelated update affecting Oxid Resolvers. The full story, and a new exploit ("RoguePotato") capable to bypass the unintended mitigation, can be found at the following addresses:
+This exploit has been silently mitigated by Microsoft in a completed unrelated update affecting Oxid Resolvers. The full story, and a new exploit ("RoguePotato") capable to bypass the unintended mitigation, can be found at the following addresses:
 
 * [No more JuicyPotato? Old story, welcome RoguePotato!][3]
 * [RoguePotato][2]
